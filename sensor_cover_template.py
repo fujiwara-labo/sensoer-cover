@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf8 -*-
-
+# marutoが変更した
 import matplotlib
 import random
 import sys
